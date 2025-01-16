@@ -1,6 +1,5 @@
 using MiniATM.UseCase;
 using MiniATM.UseCase.Repositories;
-using MiniATM.UseCase.UnitOfWork;
 using Moq;
 
 namespace UseCaseTests

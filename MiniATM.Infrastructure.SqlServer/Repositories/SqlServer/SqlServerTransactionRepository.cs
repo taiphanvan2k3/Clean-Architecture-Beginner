@@ -1,12 +1,6 @@
 ﻿using AutoMapper;
-using MiniATM.Entities;
 using MiniATM.Infrastructure.SqlServer.Repositories.SqlServer.DataContext;
 using MiniATM.UseCase.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MiniATM.Infrastructure.SqlServer.Repositories.SqlServer
 {

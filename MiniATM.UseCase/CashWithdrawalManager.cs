@@ -1,11 +1,4 @@
-﻿using MiniATM.Entities;
-using MiniATM.UseCase.Repositories;
-using MiniATM.UseCase.UnitOfWork;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MiniATM.UseCase.UnitOfWork;
 
 namespace MiniATM.UseCase
 {

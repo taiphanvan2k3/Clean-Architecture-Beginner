@@ -1,8 +1,6 @@
 
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 using MiniATM.Infrastructure.CashStorage;
 using MiniATM.Infrastructure.Models;
 using MiniATM.Infrastructure.SqlServer.Repositories.SqlServer;
